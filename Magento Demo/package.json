@@ -1,0 +1,14 @@
+{
+  "name": "magnetodemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "magento": "cypress open"
+  },
+  "author": "Maja Ljubas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
